@@ -11,6 +11,10 @@ Creating muscle memory of the basic processes of development is a key practice
  [I'm an inline-style link](https://www.google.com)<br/>
  [I'm an inline-style link](https://www.google.com)<br/>
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+ 
+ [I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 </td>
 </tr>
  <tr>

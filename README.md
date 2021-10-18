@@ -7,7 +7,7 @@ Creating muscle memory of the basic processes of development is a key practice
 <tr>
 <td>
  The guide is based on building a clone of the website [Hackers News](https://news.ycombinator.com "Hackers News") using it's own Api.
- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+ [I'm an inline-style link with title](https://www.google.com "Google's Homepage")[I'm an inline-style link](https://www.google.com)
 </td>
 </tr>
  <tr>

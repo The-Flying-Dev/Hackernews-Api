@@ -2,7 +2,7 @@ Creating muscle memory of the basic processes of development is a key practice
 following a guide in a series of tutorials on www.rapidapi.com
 <br/>
 <br/>
-#Screenshot of the homepage for the project
+Screenshot of the homepage for the project
 # ![Screenshot](https://github.com/The-Flying-Dev/Hackernews-Api/blob/main/app/assets/images/The%20Hacker%20News%20API.png)
 # Api
 <table>

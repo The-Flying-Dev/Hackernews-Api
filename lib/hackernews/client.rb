@@ -10,8 +10,15 @@ module Hackernews
             get("item/#{id}") #interpolating the id into the URI
         end
 
-        def topstories
-            get('topstories')
+        def topstories(start = 0, per_page = 10, expand = true)
+            strories = get('topstories')[start...start + per_page]
+
+            if expand
+                stories.map! do |story|
+                    item(story)
+                end
+            end
+            stories
         end
 
         private

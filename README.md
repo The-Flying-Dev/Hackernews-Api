@@ -1,7 +1,8 @@
-Creating muscle memory of the basic processes of development is a key practice towards becoming a better developer. So here I am having just completed an Api App.
+Creating muscle memory of the basic processes of development is a key practice towards becoming a better developer. So here I am having just completed an Api app
+following a guide in a series of tutorials on www.rapidapi.com
 <br/>
 <br/>
-# ![WebApp](https://github.com/The-Flying-Dev/Hackernews-Api/blob/main/app/assets/images/The%20Hacker%20News%20API.png)
+# ![Screenshot](https://github.com/The-Flying-Dev/Hackernews-Api/blob/main/app/assets/images/The%20Hacker%20News%20API.png)
 # Api
 <table>
 <tr>

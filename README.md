@@ -8,9 +8,13 @@ Creating muscle memory of the basic processes of development is a key practice
 <td>
  A clone of the website Hackers News usings it's own Api.
 </td>
- <td>
+
+</tr>
+ <tr>
+<td>
  A clone of the website Hackers News usings it's own Api.
 </td>
+
 </tr>
 </table>
 

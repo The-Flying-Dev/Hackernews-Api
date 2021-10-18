@@ -11,7 +11,7 @@ module Hackernews
         end
 
         def topstories(start = 0, per_page = 10, expand = true)
-            strories = get('topstories')[start...start + per_page]
+            stories = get('topstories')[start...start + per_page]
 
             if expand
                 stories.map! do |story|

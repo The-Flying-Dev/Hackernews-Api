@@ -6,11 +6,7 @@ Creating muscle memory of the basic processes of development is a key practice
 <table>
 <tr>
 <td>
- The guide is based on building a clone of the website [Hackers News](https://news.ycombinator.com/) using it's own Api.
-
-
-[Hackers News](https://www.google.com "Hackers News")
-
+ The guide is based on building a clone of the website [Hackers News](https://news.ycombinator.com/ "Hackers News") using it's own Api.[Hac
 </td>
 </tr>
  <tr>

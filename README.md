@@ -7,16 +7,15 @@ Creating muscle memory of the basic processes of development is a key practice
 <tr>
 <td>
  The guide is based on building a clone of the website Hackers News using it's own Api.<br/>  
-
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
  
  [Hackers News](https://news.ycombinator.com "Hacker News")
 </td>
 </tr>
  <tr>
 <td>
+ 
  [Link to the News Api guide](https://rapidapi.com/blog/news-api-ruby-on-rails "News Api")
+ 
 </td>
 </tr>
 </table>

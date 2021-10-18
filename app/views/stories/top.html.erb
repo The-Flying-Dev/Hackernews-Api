@@ -1,5 +1,4 @@
 <!--loop through all current stories-->
-
 <% @stories.each do |story| %>
   <div class="media mb-3">
     <div class="media-body">
@@ -9,9 +8,20 @@
 
       <%= story['score'] %> points
       by <%= story['by'] %>
-      <%= time_ago_in_words(story['time']) %> time_ago_in_words
+      <%= time_ago_in_words(story['time']) %> ago
       | <%= story['descendants'] %> comments
 
     </div>
   </div>   
 <% end %>
+
+<nav>
+  <ul class="pagination justify-content-center">
+    <li class="page-item <%='disabled' if @start == 0 %>">
+      <%= link_to 'Previous', root_path(start: @start - @per_page), class:'page-link' %>
+    </li>
+    <li class="page-item">
+      <%= link_to 'Next', root_path(start: @start + @per_page), class: 'page-link' %>
+    </li>
+  </ul>
+ </nav>

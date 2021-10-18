@@ -1,4 +1,4 @@
-Creating muscle memory of the basic processes of development is a key practice towards becoming a better developer. So here I am having just completed an Api app
+Creating muscle memory of the basic processes of development (typing the code) is a key practice towards becoming a better developer. So here I am having just completed an Api app
 following a guide in a series of tutorials on www.rapidapi.com
 <br/>
 <br/>

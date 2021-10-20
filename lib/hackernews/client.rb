@@ -2,8 +2,8 @@
 module Hackernews  
     class Client
         def initialize
-          @host = 'community-hacker-news-v1.p.rapidapi.com'
-          @key = '0296bd362fmsh4030ee85ded394ep183f48jsn2a8bfd0299b2'
+          @host = ''
+          @key = ''
         end
 
         def item(id)
